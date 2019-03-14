@@ -17,7 +17,7 @@ The actual location of your Sketch plugins directory will vary. To open it click
 
 Run following command after going to the sketch plugins folder:
 
-`git clone https://github.com/Live4Code/Sketch2App.git`
+`git clone https://github.com/AppChef/Sketch2App.git`
 
 To update plugin, inside the plugin folder, run
 
