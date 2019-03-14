@@ -1,7 +1,7 @@
 # Sketch2App
 [![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/instantapp.io.sketch2app/version.svg)](https://api.sketchpacks.com/v1/plugins/instantapp.io.sketch2app/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/instantapp.io.sketch2app/compatibility.svg)](https://sketchpacks.com/Live4Code/Sketch2App)
 
-Sketch plugin for [instantapp.io](https://cloud.instantapp.io) to generate native application instantly.
+Sketch plugin for [appchef.io](https://cloud.appchef.io) to generate native application instantly.
 
 ## Installation
 
@@ -25,13 +25,13 @@ To update plugin, inside the plugin folder, run
 
 ## Usage
 
-1. Go to `cloud.instantapp.io` to create an account.
+1. Go to `cloud.appchef.io` to create an account.
 
 2. Once installed the plugin, click `Install SketchTool` to copy [SketchTool](https://www.sketchapp.com/tool/) to PATH.
 
 3. Click `Upload Sketch File` to upload sketch schema. You will enter your account credentials. Wait for upload processing. If everything works, a successful prompt will open.
 
-4. Go to `cloud.instantapp.io` to see the app address. You can use [expo](https://expo.io/) to view the app on mobile devices.
+4. Go to `cloud.appchef.io` to see the app address. You can use [expo](https://expo.io/) to view the app on mobile devices.
 
 ## Disclaimer
 
