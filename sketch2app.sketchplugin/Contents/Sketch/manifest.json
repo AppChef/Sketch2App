@@ -1,11 +1,11 @@
 {
-  "name": "Sketch2App",
+  "name": "AppChef Sketch2App",
   "description":
     "A Sketch Plugin to upload mobile design and create native app instantly. Design in Sketch and view result on device in real time.",
   "version": "0.4.5",
-  "identifier": "instantapp.io.sketch2app",
+  "identifier": "appchef.io.sketch2app",
   "appcast":
-    "https://api.sketchpacks.com/v1/plugins/instantapp.io.sketch2app/appcast",
+    "https://api.sketchpacks.com/v1/plugins/appchef.io.sketch2app/appcast",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "commands": [
@@ -27,7 +27,7 @@
     }
   ],
   "menu": {
-    "title": "📲 Sketch2App",
+    "title": "📲 AppChef Sketch2App",
     "items": ["upload", "install-sketchtool", "-", "logout"]
   }
 }

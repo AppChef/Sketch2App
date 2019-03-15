@@ -1,5 +1,5 @@
 @import 'library/core.js'
 
 var onRun = function(context) {
-  l4c.installSketchtool(context);
+  appchef.installSketchtool(context);
 };
