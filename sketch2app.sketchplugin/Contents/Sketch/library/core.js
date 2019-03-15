@@ -264,7 +264,7 @@ const appchef = {
         appchef.exportAssets(context)
       } else {
         ga.send(context, {ec: 'upload', ea: 'upload', uid: uid, el: uid, ev: 1})
-        appchef.showAlert("👍 Upload success. Open the Appchef app on your phone to see the project.", context)
+        appchef.showAlert("👍 Upload successful. Open the AppChef Instant App on your phone to see the project.", context)
       }
     }
   },

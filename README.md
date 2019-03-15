@@ -1,11 +1,11 @@
-# Sketch2App
+# AppChef Sketch2App Plugin
 [![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/appchef.io.sketch2app/version.svg)](https://api.sketchpacks.com/v1/plugins/appchef.io.sketch2app/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/appchef.io.sketch2app/compatibility.svg)](https://sketchpacks.com/Live4Code/Sketch2App)
 
-Sketch plugin for [appchef.io](https://cloud.appchef.io) to generate native application instantly.
+Sketch plugin for [AppChef.io](https://cloud.appchef.io) to generate native application instantly.
 
 ## Installation
 
-Make sure Sketch is up-to-date.This plugin only works with the latest version of Sketch.
+Make sure Sketch is up-to-date. This plugin only works with the following versions of Sketch, v48 ~ current (v53)
 
 [![Install PLUGIN NAME with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Sketch2App with Sketchpacks")](https://sketchpacks.com/Live4Code/Sketch2App/install)
 
@@ -25,14 +25,16 @@ To update plugin, inside the plugin folder, run
 
 ## Usage
 
-1. Go to `cloud.appchef.io` to create an account.
+1. Go to [AppChef Cloud portal](https://cloud.appchef.io) to create an account if haven't yet.
 
-2. Once installed the plugin, click `Install SketchTool` to copy [SketchTool](https://www.sketchapp.com/tool/) to PATH.
+2. Once the plugin is installed, click `Install SketchTool` to copy [SketchTool](https://www.sketchapp.com/tool/) to PATH. (One-time only setup)
 
-3. Click `Upload Sketch File` to upload sketch schema. You will enter your account credentials. Wait for upload processing. If everything works, a successful prompt will open.
+3. Click `Export Current Design` to upload your sketch schema to AppChef. You will enter your account credentials. Wait for upload processing. If everything works, a successful prompt will open.
 
-4. Go to `cloud.appchef.io` to see the app address. You can use [expo](https://expo.io/) to view the app on mobile devices.
+4. Open the [AppChef Instant App](https://itunes.apple.com/us/app/appchef-instant-app/id1318010394?ls=1&mt=8) on your mobile to see your design running as a mobile app.
+
+5. You may login to the [AppChef Cloud portal](https://cloud.appchef.io) and see the project and export source code to turn your design into an individual native mobile app.
 
 ## Disclaimer
 
-**We only collect the raw dumped json data and image assets from the sketch project. We will never upload your sketch project.**
+**We only collect the raw dumped json data and image assets from the sketch project. We will never share your sketch project with any 3rd party.**
